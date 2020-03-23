@@ -1,0 +1,6 @@
+# editor dir
+.vscode
+
+#files created at programm running
+buses.json
+.log
